@@ -1,9 +1,9 @@
-🧠 LeetCode & Codewars Solutions
+**🧠 LeetCode & Codewars Solutions**
 
 This repository contains my personal solutions, notes, and approaches to algorithm and data structure problems from LeetCode and Codewars.
 The goal of this repo is to sharpen problem-solving skills, improve coding efficiency, and build a strong foundation in algorithms and clean code.
 
-📌 Purpose of This Repository
+**📌 Purpose of This Repository**
 
 Practice Data Structures & Algorithms (DSA)
 
@@ -17,7 +17,7 @@ Share solutions with clear explanations
 
 This is an actively maintained repository, and solutions may be refactored over time as I learn better approaches.
 
-🛠 Platforms Covered
+**🛠 Platforms Covered**
 
 LeetCode
 
@@ -31,7 +31,7 @@ Kata from beginner to advanced levels
 
 Focus on clean, readable, and idiomatic code
 
-💻 Languages Used
+**💻 Languages Used**
 
 Depending on the problem, solutions may be implemented in:
 
