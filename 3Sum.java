@@ -6,7 +6,7 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         if (nums == null || nums.length < 3) return result;
 
-        // Step 1: Sort the array
+        // Step 1: Sort the array thru nums
         Arrays.sort(nums);
 
         // Step 2: Iterate through each number
