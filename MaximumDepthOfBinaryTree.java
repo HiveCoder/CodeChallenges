@@ -1,18 +1,21 @@
 // Maximum Depth of Binary Tree in Java
 /**
  * Definition for a binary tree node.
- * struct TreeNode {
+ * public class TreeNode {
  *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
  */
 class Solution {
-public:
-    int maxDepth(TreeNode* root) {
+    public int maxDepth(TreeNode root) {
         
     }
-};
+}
