@@ -1,5 +1,5 @@
 class Solution {
-    
+    //initialization of algo
     public int singleNumber(int[] nums) {
         
         // 'result' will store the XOR of all numbers in the array.
